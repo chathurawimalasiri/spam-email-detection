@@ -7,4 +7,4 @@ This folder contains the source code and CSV data file. 
  
  ## model-folder
  
- This folder contains thr train model and Python code. You can download the Python code and model and run them on your machine.
+ This folder contains the train model and Python code. You can download the Python code and model and run them on your machine.
